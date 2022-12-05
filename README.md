@@ -15,3 +15,11 @@ El presente repositorio contiene la documentación del reto, en este se encuntra
 * Comparación de los modelos probados durante el desarrollo del proyecto.
 * Evaluacion y elección del mejor modelo.
 * Visualización de resultados.
+
+### 3: Reto Documentación.pdf
+* Entendimiento del Negocio
+* Entendimiento de los Datos
+* Preparación de los Datos
+* Modelos Implementados
+* Evalución de Modelos
+* Despliegue
